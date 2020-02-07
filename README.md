@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Konstantin-Danilov/Space%20Game%20-%20web%20-%20Agent/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=build-agent)](https://dev.azure.com/Konstantin-Danilov/Space%20Game%20-%20web%20-%20Agent/_build/latest?definitionId=12&branchName=build-agent)
 
 # Contributing
 
